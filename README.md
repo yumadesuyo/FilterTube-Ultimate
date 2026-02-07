@@ -2,7 +2,7 @@
 
 > Precision YouTube searching without the headache
 
-## 🚀 [Live Demo](https://DudeRandomYT.github.io/filtertube](https://duderandomyt.github.io/FilterTube-Ultimate/)
+## 🚀 [Live Demo](https://duderandomyt.github.io/FilterTube-Ultimate)
 
 FilterTube is a lightweight, privacy-focused power tool for YouTube. It bypasses the "Recommended" clutter and uses strict Boolean logic to find exactly what you need.
 
